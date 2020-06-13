@@ -23,3 +23,6 @@ You can set the indicator time (training time up to we can read the data) and th
 We used the mean absolute percentage error to test the performance of the models.
 
 Execute the program by entering retweet_prediction().
+
+## Extra
+The code is part of my master thesis on estimation of information diffusion in social media. You can find the complete text here: https://drive.google.com/file/d/1MbrujHhDZGHzuWxzjDyvC2W2jWINLtBQ/ (in Greek).
